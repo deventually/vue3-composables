@@ -2,3 +2,5 @@
 Vue 3 composables to assist you in building beautiful vue applications
 
 ## Install
+
+## Example
